@@ -33,7 +33,3 @@ USB Type-C is used for communication and power.
 ## Schematic
 
 ![Schematic](schematic.png)
-
-## Tools
-
-- PCB design: Eagle CAD
